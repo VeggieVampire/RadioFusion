@@ -1,2 +1,2 @@
 # RadioFusion
-RadioFusion is an innovative project that merges the world of amateur radio (HAM) with virtual reality (VR) technology.
+RadioFusion is an innovative project that merges the world of amateur radio (HAM) with virtual reality (VR) technology. With RadioFusion, users can remotely access a Raspberry Pi-powered Software-Defined Radio (SDR) server using Soapy Remote backend technology. The frontend of the project is implemented as a Unity 3D game in VR, allowing users to immerse themselves in a virtual environment where they can interact with radio frequencies in real-time.
